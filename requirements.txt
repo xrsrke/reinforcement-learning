@@ -1,3 +1,7 @@
 stable-baselines3[extra]
 huggingface_sb3
 tqdm
+tensorboard
+huggingface-hub
+huggingface-sb3
+nbdev

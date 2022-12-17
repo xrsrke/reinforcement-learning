@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "reinforcement-learning"
+  site-url: "https://xrsrke.github.io/reinforcement-learning"
+  description: "implementation of reinforcement learning algorithms"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/reinforcement-learning"
