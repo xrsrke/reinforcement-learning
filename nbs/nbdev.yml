@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "reinforcement-learning"
+  title: "octopus"
   site-url: "https://xrsrke.github.io/reinforcement-learning"
   description: "implementation of reinforcement learning algorithms"
   repo-branch: main
