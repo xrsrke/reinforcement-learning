@@ -5,3 +5,5 @@ tensorboard
 huggingface-hub
 huggingface-sb3
 nbdev
+moviepy
+gymnasium
