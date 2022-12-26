@@ -1,0 +1,33 @@
+{
+    "os": "macOS-12.6.1-arm64-arm-64bit",
+    "python": "3.8.15",
+    "heartbeatAt": "2022-12-24T05:31:14.171051",
+    "startedAt": "2022-12-24T05:31:10.135302",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "examples/06_actor_critic_lucasc-jvsc-4701278c-8159-4d4b-9464-c9937c736e3332b7b28a-b668-4e4f-ad80-2a96ea9d9b42.ipynb",
+    "root": "/Users/education/DATA/projects/ai/reinforcement-learning/reinforcement-learning",
+    "git": {
+        "remote": "https://github.com/xrsrke/reinforcement-learning.git",
+        "commit": "74fa303a8b0650c0f2ed2273e918c94392042d1c"
+    },
+    "email": "xariusdrake@hotmail.com",
+    "host": "xrss-MacBook-Pro.local",
+    "username": "education",
+    "executable": "/Users/education/miniforge3/envs/gym/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 74.08143997192383
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

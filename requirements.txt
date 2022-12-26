@@ -7,3 +7,4 @@ huggingface-sb3
 nbdev
 moviepy
 gymnasium
+wandb

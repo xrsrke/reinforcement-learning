@@ -6,3 +6,7 @@ reinforcement-learning
 Work In Progress
 
 > pip install -e .
+
+
+## Learning Deep RL
+Key papers in RL: https://spinningup.openai.com/en/latest/spinningup/keypapers.html
