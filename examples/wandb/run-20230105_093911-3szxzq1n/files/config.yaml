@@ -1,0 +1,110 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.7
+    code_path: code/examples/07_cleanrl.py
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.15
+    start_time: 1672886351.233101
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      - 35
+      4: 3.8.15
+      5: 0.13.7
+      8:
+      - 4
+      - 5
+anneal_lr:
+  desc: null
+  value: true
+batch_size:
+  desc: null
+  value: 512
+capture_video:
+  desc: null
+  value: false
+clip_coef:
+  desc: null
+  value: 0.2
+clip_vloss:
+  desc: null
+  value: true
+cuda:
+  desc: null
+  value: true
+ent_coef:
+  desc: null
+  value: 0.01
+env_id:
+  desc: null
+  value: CartPole-v0
+exp_name:
+  desc: null
+  value: 07_cleanrl
+gae_lambda:
+  desc: null
+  value: 0.95
+gamma:
+  desc: null
+  value: 0.99
+learning_rate:
+  desc: null
+  value: 0.00025
+max_grad_norm:
+  desc: null
+  value: 0.5
+minibatch_size:
+  desc: null
+  value: 128
+norm_adv:
+  desc: null
+  value: true
+num_envs:
+  desc: null
+  value: 4
+num_minibatches:
+  desc: null
+  value: 4
+num_steps:
+  desc: null
+  value: 128
+seed:
+  desc: null
+  value: 1
+target_kl:
+  desc: null
+  value: null
+torch_deterministic:
+  desc: null
+  value: true
+total_timesteps:
+  desc: null
+  value: 50000
+track:
+  desc: null
+  value: true
+update_epochs:
+  desc: null
+  value: 4
+vf_coef:
+  desc: null
+  value: 0.5
+wandb_entity:
+  desc: null
+  value: null
+wandb_project_name:
+  desc: null
+  value: cleanrltest
